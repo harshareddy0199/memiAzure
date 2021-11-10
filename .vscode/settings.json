@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8464ff58-77da-469d-bdb7-6ee20cb5cf5e/resourceGroups/readit-app-rg/providers/Microsoft.Web/sites/Readit-Inventory-Harsha",
+    "appService.deploySubpath": "publish",
+    "git.ignoreLimitWarning": true
+}
